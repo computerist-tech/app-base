@@ -1,5 +1,5 @@
 # Computerist's Base App
-Base Image for Microservices and Shared DB's
+Base Image for Creating and Deploying Microservices and Accessing Shared DB's
 
 ## Stack
 * Django
