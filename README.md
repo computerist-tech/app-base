@@ -4,6 +4,7 @@ Base Image for Creating and Deploying Microservices and Accessing Shared DB's
 ## Stack
 * Django
 * Postgres
+* No Sql (AWS / Mongo)
 * Django Debug Toolbar
 
 ## DevOps Stack
