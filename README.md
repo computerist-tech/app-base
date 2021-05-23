@@ -1,5 +1,5 @@
-# Crawly's Base Image
-Base Image for Creating and Deploying Microservices and Accessing Shared DB's
+# Crawly's Requirements
+Requirements for Creating and Deploying Microservices and Accessing Shared DB's
 
 ## Stack
 * Django [x]
