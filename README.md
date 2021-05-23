@@ -9,6 +9,7 @@ Base Image for Creating and Deploying Microservices and Accessing Shared DB's
 * Celery
 * Redis / RabbitMQ Support (Django and Celery Cache / Result Backend for Celery) [Docker Ready]
 * Celery Beat (Scheduling Tasks) [Docker Ready]
+* Flower - Celery Monitoring [Docker Ready]
 * Custom Centralized Logging with Elastic Search (Kibana) [Docker Ready]
 
 ## DevOps Stack
